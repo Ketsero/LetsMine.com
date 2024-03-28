@@ -1,4 +1,4 @@
-#LetsMine.com
+#1
 <html>
 <title>Головна Сторінка Проекту LetsMine.ua</title>
 <body style="font-family:san-serif">
